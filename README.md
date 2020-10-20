@@ -1,1 +1,1 @@
-# PYTHON-my_leatcode_solutions
+My solutions to leatcode algorithm problems. 
